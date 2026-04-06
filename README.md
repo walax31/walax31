@@ -2,8 +2,8 @@
 
 Frontend Engineer based in Bangkok
 
-I build scalable and data-driven web applications,
-with a focus on performance, usability, and clean architecture.
+Building scalable and data-driven web applications  
+Focused on performance, usability, and clean architecture
 
 ---
 
@@ -12,9 +12,8 @@ with a focus on performance, usability, and clean architecture.
 ### 🖥️ Terminal Portfolio
 Interactive CLI-style portfolio
 
-- Built with Next.js and Tailwind
 - Command system with autocomplete and history
-- Designed for fast navigation and developer-focused UX
+- Fast, developer-focused user experience
 
 🔗 https://noblue-cli.vercel.app
 
@@ -22,22 +21,19 @@ Interactive CLI-style portfolio
 ### 💰 Financial Platforms
 Adviser and investor systems
 
-- Developed data-heavy interfaces and complex workflows
+- Data-heavy interfaces for financial workflows
 - Improved usability across key user journeys
-- Focused on performance and scalability
 
 
 ### 🛒 E-commerce Platform
-Full product browsing and shopping flow
+Product browsing and shopping flow
 
-- Cart and favorites using Zustand
+- Cart and favorites with Zustand
 - Responsive UI and interaction flows
-- State management and performance optimization
-
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech
 
 React / Next.js / TypeScript  
 Zustand / Redux  
@@ -48,6 +44,6 @@ GraphQL / REST API
 
 ## 📫 Contact
 
-- Email: waralak.khamnoi@gmail.com  
-- Portfolio: https://noblue-cli.vercel.app  
-- GitHub: https://github.com/walax31  
+Email: waralak.khamnoi@gmail.com  
+Portfolio: https://noblue-cli.vercel.app  
+GitHub: https://github.com/walax31
